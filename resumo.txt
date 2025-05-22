@@ -1,15 +1,12 @@
-# Criando um Copiloto com fluxo de conversa personalizado no Microsoft Copilot
-
-## Resumo
-
-### 1. Criar um Copilot em branco
+Resumo: Criando um Copiloto com fluxo de conversa personalizado no Microsoft Copilot
+Criar um Copilot em branco
 Essa etapa consiste em iniciar um agente do zero, definindo seu nome e suas instruções básicas. As instruções orientam o comportamento do Copilot, explicando seu propósito e contexto de uso, como atendimento ao cliente, suporte interno ou outro cenário de negócio.
 
-### 2. Customizar um tópico
+Customizar um tópico
 Tópicos são fluxos de conversa definidos para lidar com intenções específicas dos usuários. É possível personalizar esses tópicos criando gatilhos (frases que iniciam o assunto), perguntas e ações que o Copilot deve executar em resposta.
 
-### 3. Personalizar uma mensagem de erro de tópico
+Personalizar uma mensagem de erro de tópico
 Caso o Copilot não consiga entender ou responder adequadamente dentro de um tópico, é possível configurar mensagens de erro personalizadas. Isso ajuda a manter a comunicação clara e profissional, mesmo quando ocorrem falhas de interpretação.
 
-### 4. Aumentar/diminuir a qualidade de resposta com GenAI
+Aumentar/diminuir a qualidade de resposta com GenAI
 O recurso de GenAI permite ajustar o nível de geração de conteúdo baseado em IA. Pode-se configurar o Copilot para fornecer respostas mais criativas e flexíveis ou mais objetivas e controladas, dependendo da finalidade do agente.
